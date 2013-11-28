@@ -4,7 +4,7 @@
     <list default="true" id="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" name="Default" comment="" />
     <ignored path="kebab_project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385648802448" ignored="false" />
+    <file path="/index.html.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385652080746" ignored="false" />
     <file path="/main.sass" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385651299846" ignored="false" />
     <file path="/layout.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385636912581" ignored="false" />
     <file path="/config.rb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385550011363" ignored="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="43" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8020231">
+            <state line="3" column="15" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0650289">
               <folding>
                 <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
@@ -113,8 +113,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/source/stylesheets/main.sass" />
+        <option value="$PROJECT_DIR$/source/index.html.erb" />
       </list>
     </option>
   </component>
@@ -619,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="43" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8020231">
+        <state line="3" column="15" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0650289">
           <folding>
             <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
