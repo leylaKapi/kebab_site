@@ -4,8 +4,8 @@
     <list default="true" id="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" name="Default" comment="" />
     <ignored path="kebab_project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385638514636" ignored="false" />
-    <file path="/main.sass" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385638458266" ignored="false" />
+    <file path="/index.html.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385640224741" ignored="false" />
+    <file path="/main.sass" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385640134948" ignored="false" />
     <file path="/layout.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385636912581" ignored="false" />
     <file path="/config.rb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385550011363" ignored="false" />
     <file path="/Dummy.txt" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385550125107" ignored="false" />
@@ -35,24 +35,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="104" selection-start="2023" selection-end="2023" vertical-scroll-proportion="-14.375">
+            <state line="72" column="32" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.3684971">
               <folding>
                 <element signature="n#style#0;n#hr#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#2;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#5;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#8;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#9;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#10;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#11;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#div#12;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="14" selection-start="436" selection-end="436" vertical-scroll-proportion="0.5720339">
+            <state line="18" column="67" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,7 +74,7 @@
       <file leaf-file-name="main.sass" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="19" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+            <state line="65" column="20" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,8 +102,8 @@
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
-        <option value="$PROJECT_DIR$/source/stylesheets/main.sass" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/source/stylesheets/main.sass" />
         <option value="$PROJECT_DIR$/source/index.html.erb" />
       </list>
     </option>
@@ -361,11 +374,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1535" height="867" extended-state="1" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1535" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -453,6 +466,19 @@
             <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#2;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#5;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#8;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#9;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#10;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#11;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#12;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -504,29 +530,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="67" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="19" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+        <state line="65" column="20" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="104" selection-start="2023" selection-end="2023" vertical-scroll-proportion="-14.375">
+        <state line="72" column="32" selection-start="4501" selection-end="4501" vertical-scroll-proportion="0.3684971">
           <folding>
             <element signature="n#style#0;n#hr#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#2;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#5;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#8;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#9;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#10;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#11;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#12;n#div#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="14" selection-start="436" selection-end="436" vertical-scroll-proportion="0.5720339">
-          <folding />
         </state>
       </provider>
     </entry>
