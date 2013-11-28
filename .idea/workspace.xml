@@ -5,7 +5,7 @@
     <ignored path="kebab_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385648802448" ignored="false" />
-    <file path="/main.sass" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385649282038" ignored="false" />
+    <file path="/main.sass" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385651299846" ignored="false" />
     <file path="/layout.erb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385636912581" ignored="false" />
     <file path="/config.rb" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385550011363" ignored="false" />
     <file path="/Dummy.txt" changelist="76b5f1e9-d9e6-47c7-95d8-6a2353a84a68" time="1385550125107" ignored="false" />
@@ -35,14 +35,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="-0.625">
+            <state line="37" column="43" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8020231">
               <folding>
                 <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -83,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.sass" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.sass" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="12" selection-start="571" selection-end="571" vertical-scroll-proportion="0.27234638">
+            <state line="96" column="13" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -514,8 +512,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -614,13 +610,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="13" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="-0.625">
+        <state line="37" column="43" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.8020231">
           <folding>
             <element signature="n#style#0;n#i#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#header#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#1;n#p#0;n#div#1;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -657,13 +658,6 @@
             <element signature="n#style#0;n#i#0;n#a#1;n#div#3;n#div#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#2;n#div#3;n#div#1;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="12" selection-start="571" selection-end="571" vertical-scroll-proportion="0.27234638">
-          <folding />
         </state>
       </provider>
     </entry>
